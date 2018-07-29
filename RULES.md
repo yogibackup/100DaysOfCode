@@ -16,7 +16,6 @@ August 1st, 2018.
 4. I will update the [Log](LOG.md) with the day's progress and provide a link so that others can see my progress.
 5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge.
 
-
 ## Ideas to make this challenge more effective
 
 1. To increase the chances of success, it's a requirement that you add a link to each of the day posts in the [log](LOG.md). It can be a link to a commit on GitLab, a link to a blog post
