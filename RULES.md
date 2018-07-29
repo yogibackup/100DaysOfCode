@@ -11,7 +11,7 @@ August 1st, 2018.
 2. If I code at work, that time won't count towards the challenge.
 3. I will push code to GitLab every day so that anyone can see my progress.
 4. I will update the (Log)[LOG.md] with the day's progress and provide a link so that others can see my progress.
-5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge. (If you've just started learning to code, read [FAQ](FAQ.md))
+5. I will work on real projects, facing real challenges. The time spent doing tutorials, online courses and other similar resources will NOT count towards this challenge.
 
 
 ## Ideas to make this challenge more effective
@@ -24,5 +24,3 @@ August 1st, 2018.
 ## Contents
 * [Rules](RULES.md)
 * [Log - click here to see my progress](LOG.md)
-* [FAQ](FAQ.md)
-* [Resources](RESOURCES.md)
