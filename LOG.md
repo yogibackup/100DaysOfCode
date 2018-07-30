@@ -2,11 +2,11 @@
 
 ### Day 0: August 1, 2018, Wednesday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Ship GitLab and GitLab CLI
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I really struggled with the vector argument to display help
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [GitLab](https://gitlab.com/yoginth/gitlab) and [GitLab CLI](https://gitlab.com/yoginth/gitlabcli)
 
 ---
 
