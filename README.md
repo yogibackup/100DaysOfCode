@@ -11,7 +11,7 @@
 1.  Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 1.  **Code minimum an hour every day for the next 100 days.**
 1.  **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
-1.  Change the date in [Rules](Rules.md) to the day you've started the challenge.
+1.  Change the date in [Rules](RULES.md) to the day you've started the challenge.
 1.  Create a new **LOG.md** file and copy the Template
 1.  **Tweet your progress every day using the #100DaysOfCode hashtag.**
 1.  Follow [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
