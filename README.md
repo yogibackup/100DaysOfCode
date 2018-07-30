@@ -1,11 +1,5 @@
 # I've joined the **#100DaysOfCode** Challenge
-```mermaid
-graph TD;
-  A-->B;
-  A-->C;
-  B-->D;
-  C-->D;
-```
+
 ## Contents
 
 * [Rules](RULES.md)
