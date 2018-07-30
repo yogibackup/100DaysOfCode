@@ -4,7 +4,7 @@
 
 **Today's Progress**: Ship GitLab and GitLab CLI
 
-**Thoughts:** I really struggled with the vector argument to display help
+**Thoughts:** I really struggled with the checking null in vector argument to display help
 
 **Link to work:** [GitLab](https://gitlab.com/yoginth/gitlab) and [GitLab CLI](https://gitlab.com/yoginth/gitlabcli)
 
