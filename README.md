@@ -2,8 +2,8 @@
 
 ## Contents
 
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Rules](RULES.md)
+* [Log - click here to see my progress](LOG.md)
 
 ## If you've decided to join:
 
