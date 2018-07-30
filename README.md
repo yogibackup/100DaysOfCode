@@ -1,7 +1,5 @@
 # I've joined the **#100DaysOfCode** Challenge
 
-`HSLA(540,70%,50%,0.7)`
-
 ## Contents
 
 * [Rules](RULES.md)
