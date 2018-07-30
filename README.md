@@ -1,7 +1,6 @@
 # I've joined the **#100DaysOfCode** Challenge
 
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
-
+`HSLA(540,70%,50%,0.7)`
 
 ## Contents
 
