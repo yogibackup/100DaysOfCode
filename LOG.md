@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: August 1, 2018, Wednesday
+#### Day 0: August 1, 2018, Wednesday
 
 **Today's Progress**: Ship GitLab and GitLab CLI
 
@@ -10,4 +10,4 @@
 
 ---
 
-### Day 1: August 2, 2018, Thursday
+#### Day 1: August 2, 2018, Thursday
