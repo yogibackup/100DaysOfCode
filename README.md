@@ -1,5 +1,8 @@
 # I've joined the **#100DaysOfCode** Challenge
 
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
+
+
 ## Contents
 
 * [Rules](RULES.md)
