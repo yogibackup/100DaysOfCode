@@ -1,8 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: August 1, 2018, Wednesday
-
-- [x] Finished
+### [x] Day 0: August 1, 2018, Wednesday
 
 **Today's Progress**: Ship CLI Apps for all non CLI Modules
 
