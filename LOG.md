@@ -2,6 +2,8 @@
 
 ### Day 0: August 1, 2018, Wednesday
 
+- [x] Finished
+
 **Today's Progress**: Ship CLI Apps for all non CLI Modules
 
 **Thoughts:** I really struggled with the checking null in vector argument to display help
