@@ -2,11 +2,11 @@
 
 ### **Day 0: August 1, 2018, Wednesday**
 
-##### **Today's Progress**: Ship CLI Apps for all non CLI Modules
+###### **Today's Progress**: Ship CLI Apps for all non CLI Modules
 
-##### **Thoughts:** I really struggled with the checking null in vector argument to display help
+###### **Thoughts:** I really struggled with the checking null in vector argument to display help
 
-##### **Link to work:** [PyPI](https://pypi.org/user/yoginth/)
+###### **Link to work:** [PyPI](https://pypi.org/user/yoginth/)
 
 ---
 
