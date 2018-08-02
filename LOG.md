@@ -1,4 +1,4 @@
-# 100 Days Of Code - **Log** 📦
+# 100 Days Of Code - **Log**
 
 ### **Day 0: August 1, 2018, Wednesday**
 
