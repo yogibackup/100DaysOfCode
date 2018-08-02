@@ -1,6 +1,6 @@
 # 100 Days Of Code - **Log** 📦
 
-### **Day 0: August 1, 2018, Wednesday** 
+### **Day 0: August 1, 2018, Wednesday**
 
 <h6>✅</h6>
 
@@ -12,7 +12,7 @@
 
 ---
 
-### **Day 1: August 2, 2018, Thursday** 
+### **Day 1: August 2, 2018, Thursday**
 
 <h6>✅</h6>
 
@@ -23,3 +23,10 @@
 ###### **Link to work:** [GitLab CLI](https://gitlab.com/yoginth/gitlabcli).
 
 ---
+
+{::options parse_block_html="true" /}
+
+<i class="fab fa-gitlab" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>&nbsp;&nbsp;
+The webcast I want to announce - [Register here][webcast-link]!
+&nbsp;&nbsp;<i class="fab fa-gitlab" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>
+{: .alert .alert-webcast}
