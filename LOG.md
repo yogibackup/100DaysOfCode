@@ -23,10 +23,3 @@
 ###### **Link to work:** [GitLab CLI](https://gitlab.com/yoginth/gitlabcli).
 
 ---
-
-{::options parse_block_html="true" /}
-
-<i class="fab fa-gitlab" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>&nbsp;&nbsp;
-The webcast I want to announce - [Register here][webcast-link]!
-&nbsp;&nbsp;<i class="fab fa-gitlab" style="color:rgb(107,79,187); font-size:.85em" aria-hidden="true"></i>
-{: .alert .alert-webcast}
