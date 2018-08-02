@@ -1,11 +1,11 @@
 ## Tweet Template
 
 ```
-Day 0: August 1, 2018, Wednesday #100DaysOfCode
+Day 1: August 2, 2018, Thursday #100DaysOfCode
 
-Today's Progress: Ship CLI Apps 🖥️ for all finished non-CLI Modules
+Today's Progress: Tried to fix GitLab CLI App (WIP)
 
-Thoughts: After publishing the package I found that I forgot to add the main method to all packages 🤣.
+Thoughts: I struggled with implementing on vector argument detection, still it is not fixed 😭
 
-Log: https://gitlab.com/yoginth/100DaysOfCode/blob/master/LOG.md#day-0-august-1-2018-wednesday
+@GitLab https://gitlab.com/yoginth/100DaysOfCode/blob/master/LOG.md#day-1-august-2-2018-thursday
 ```

@@ -1,4 +1,4 @@
-# 100 Days Of Code - **Log**
+# 100 Days Of Code - **Log** | [#100DaysOfCode](https://twitter.com/hashtag/100DaysOfCode?src=hash)
 
 ### **Day 0: August 1, 2018, Wednesday**
 
