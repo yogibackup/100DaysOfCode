@@ -1,4 +1,4 @@
-# 100 Days Of Code - **Log**
+# 100 Days Of Code - **Log** 📦
 
 ### **Day 0: August 1, 2018, Wednesday** ✅
 
@@ -10,7 +10,7 @@
 
 ---
 
-### **Day 1: August 2, 2018, Thursday** ✅
+### **Day 1: August 2, 2018, Thursday** <h5>✅</h5>
 
 ###### **Today's Progress**: Tried to fix **GitLab CLI** App **(WIP)**
 
