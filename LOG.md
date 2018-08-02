@@ -1,6 +1,6 @@
 # 100 Days Of Code - **Log** 📦
 
-### **Day 0: August 1, 2018, Wednesday <h6>✅</h6>*
+### **Day 0: August 1, 2018, Wednesday** <h6>✅</h6>
 
 ###### **Today's Progress**: Ship CLI Apps for all finished non CLI Modules
 
@@ -10,7 +10,7 @@
 
 ---
 
-### **Day 1: August 2, 2018, Thursday <h6>✅</h6>**
+### **Day 1: August 2, 2018, Thursday** <h6>✅</h6>
 
 ###### **Today's Progress**: Tried to fix **GitLab CLI** App **(WIP)**
 
