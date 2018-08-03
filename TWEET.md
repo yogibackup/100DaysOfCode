@@ -1,11 +1,11 @@
 ## Tweet Template
 
 ```
-Day 1: August 2, 2018, Thursday #100DaysOfCode
+Day 2: August 3, 2018, Friday #100DaysOfCode
 
-Today's Progress: Tried to fix GitLab CLI App (WIP)
+Today's Progress: Shiped Gravatar URL from E-Mail Module
 
-Thoughts: I struggled with implementing on vector argument detection, still it is not fixed 😭
+Thoughts: Learned how to encode string to `md5` in Python
 
-@GitLab https://gitlab.com/yoginth/100DaysOfCode/blob/master/LOG.md#day-1-august-2-2018-thursday
+@GitLab https://gitlab.com/yoginth/100DaysOfCode/blob/master/LOG.md#day-2-august-3-2018-friday
 ```
