@@ -28,9 +28,9 @@
 
 <h6>✅</h6>
 
-###### **Today's Progress**: Shiped Gravatar URL from E-Mail Module**
+###### **Today's Progress**: Shipped Gravatar URL from E-Mail Module**
 
-###### **Thoughts:** Learned how to encode string to `md5` in Python
+###### **Thoughts:** Learned how to encode a string to `md5` in Python
 
 ###### **Link to work:** [Gravatar URL](https://gitlab.com/yoginth/gravatarurl).
 
