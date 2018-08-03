@@ -23,3 +23,15 @@
 ###### **Link to work:** [GitLab CLI](https://gitlab.com/yoginth/gitlabcli).
 
 ---
+
+### **Day 2: August 3, 2018, Friday**
+
+<h6>✅</h6>
+
+###### **Today's Progress**: Shiped Gravatar URL from E-Mail Module**
+
+###### **Thoughts:** Learned how to encode string to `md5` in Python
+
+###### **Link to work:** [Gravatar URL](https://gitlab.com/yoginth/gravatarurl).
+
+---
