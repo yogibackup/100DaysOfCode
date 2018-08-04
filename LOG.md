@@ -40,10 +40,10 @@
 
 <h6>✅</h6>
 
-###### **Today's Progress**: Worked on Twitter Unfollow script in Python
+###### **Today's Progress**: Worked on Twitter Unfollow script in Python and Shipped Sorting module
 
 ###### **Thoughts:** Struggled with API Rate Limiting by Twitter
 
-###### **Link to work:** [Twitter Unfollow](https://gitlab.com/yoginth/twitter-unfollow).
+###### **Link to work:** [Sorting](https://gitlab.com/yoginth/sorting), [Twitter Unfollow](https://gitlab.com/yoginth/twitter-unfollow).
 
 ---
