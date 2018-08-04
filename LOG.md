@@ -36,7 +36,7 @@
 
 ---
 
-### **Day 3: August 4, 2018, Friday**
+### **Day 3: August 4, 2018, Saturday**
 
 <h6>✅</h6>
 
