@@ -35,3 +35,15 @@
 ###### **Link to work:** [Gravatar URL](https://gitlab.com/yoginth/gravatarurl).
 
 ---
+
+### **Day 3: August 4, 2018, Friday**
+
+<h6>✅</h6>
+
+###### **Today's Progress**: Worked on Twitter Unfollow script in Python
+
+###### **Thoughts:** Struggled with API Rate Limiting by Twitter
+
+###### **Link to work:** [Twitter Unfollow](https://gitlab.com/yoginth/twitter-unfollow).
+
+---
