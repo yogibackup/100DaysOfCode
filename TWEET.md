@@ -1,7 +1,7 @@
 ## Tweet Template
 
 ```
-Day 3: August 4, 2018, Saturday #100DaysOfCode
+Day 4: August 5, 2018, Sunday #100DaysOfCode
 
 Today's Progress: Shipped Public IP detector module in Python
 
