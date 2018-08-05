@@ -3,9 +3,9 @@
 ```
 Day 3: August 4, 2018, Saturday #100DaysOfCode
 
-Today's Progress: Worked on Twitter Unfollow script in Python
+Today's Progress: Shipped Public IP detector module in Python
 
-Thoughts: Struggled with API Rate Limiting by Twitter
+Thoughts: Soon the module will be able to detect the Location, ISP, etc.
 
-@GitLab https://gitlab.com/yoginth/100DaysOfCode/blob/master/LOG.md#day-3-august-4-2018-saturday
+@GitLab https://gitlab.com/yoginth/100DaysOfCode/blob/master/LOG.md#day-4-august-5-2018-sunday
 ```
