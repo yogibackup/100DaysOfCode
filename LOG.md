@@ -47,3 +47,15 @@
 ###### **Link to work:** [Sorting](https://gitlab.com/yoginth/sorting), [Twitter Unfollow](https://gitlab.com/yoginth/twitter-unfollow).
 
 ---
+
+### **Day 4: August 5, 2018, Sunday**
+
+<h6>✅</h6>
+
+###### **Today's Progress**: Shipped Public IP detector module in Python
+
+###### **Thoughts:** Soon the module will be able to detect the Location, ISP, etc.
+
+###### **Link to work:** [Public IP](https://gitlab.com/yoginth/publicip).
+
+---
