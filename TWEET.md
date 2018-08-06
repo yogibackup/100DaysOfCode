@@ -1,11 +1,11 @@
 ## Tweet Template
 
 ```
-Day 4: August 5, 2018, Sunday #100DaysOfCode
+Day 5: August 6, 2018, Monday #100DaysOfCode
 
-Today's Progress: Shipped Public IP detector module in Python
+Today's Progress: Layed Foundation to my Personal Telegram Bot
 
-Thoughts: Soon the module will be able to detect the Location, ISP, etc.
+Thoughts: Struggled with implementing `Python Telegram Bot` Package
 
 @GitLab https://gitlab.com/yoginth/100DaysOfCode/blob/master/LOG.md#day-4-august-5-2018-sunday
 ```
