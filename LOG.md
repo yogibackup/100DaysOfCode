@@ -59,3 +59,15 @@
 ###### **Link to work:** [Public IP](https://gitlab.com/yoginth/publicip).
 
 ---
+
+### **Day 5: August 6, 2018, Monday**
+
+<h6>✅</h6>
+
+###### **Today's Progress**: Layed Foundation to my Personal Telegram Bot
+
+###### **Thoughts:** Struggled with implementing `Python Telegram Bot` Package
+
+###### **Link to work:** [Assistant](https://gitlab.com/yoginth/assistant).
+
+---
